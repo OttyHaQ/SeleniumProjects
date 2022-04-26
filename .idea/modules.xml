@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HaQTest_Framework/.idea/HaQTest_Framework.iml" filepath="$PROJECT_DIR$/../HaQTest_Framework/.idea/HaQTest_Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../POM_based_Test_Project/.idea/POM_based_Test_Project.iml" filepath="$PROJECT_DIR$/../POM_based_Test_Project/.idea/POM_based_Test_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python Projects/.idea/Python Projects.iml" filepath="$PROJECT_DIR$/../Python Projects/.idea/Python Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SeleniumProjects.iml" filepath="$PROJECT_DIR$/.idea/SeleniumProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonForTesters/.idea/pythonForTesters.iml" filepath="$PROJECT_DIR$/../pythonForTesters/.idea/pythonForTesters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>
